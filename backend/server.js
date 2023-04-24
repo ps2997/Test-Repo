@@ -5,7 +5,7 @@ const connectDatabase = require("./config/database.js");
 
 // config
 dotenv.config({path:"backend/config/config.env"});
- //this is the change kjansknasdkjn
+ //this is the change garu
 
 //connect database
 connectDatabase();
